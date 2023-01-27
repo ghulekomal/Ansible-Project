@@ -1,6 +1,7 @@
 # Ansible project
 
-Ping:
+
+
 ![image](https://user-images.githubusercontent.com/54700625/215021858-7300e2b0-be1d-4b9e-9b26-974ac3a0d778.png)
 
 Installing Apach2 using ansible-playbook
